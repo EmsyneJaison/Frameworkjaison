@@ -1,4 +1,5 @@
 import configparser
+import selenium
 
 class config:
     config = configparser.ConfigParser()
